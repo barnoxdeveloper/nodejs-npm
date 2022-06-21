@@ -1,0 +1,20 @@
+{
+    "name": "nodejs-npm",
+    "version": "1.0.0",
+    "description": "Belajar NodeJs NPM",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/barnoxdeveloper/nodejs-npm.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "barnoxdev",
+        "nodejs",
+        "npm"
+    ],
+    "author": "Andre",
+    "license": "ISC"
+}
