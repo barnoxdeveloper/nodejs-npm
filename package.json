@@ -2,7 +2,10 @@
     "name": "nodejs-npm",
     "version": "1.0.0",
     "description": "Belajar NodeJs NPM",
-    "main": "index.js",
+    "exports": {
+        ".": "./index.js",
+        "./write": "./write.js"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/barnoxdeveloper/nodejs-npm.git"
